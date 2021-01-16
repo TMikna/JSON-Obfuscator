@@ -1,2 +1,0 @@
-C:\Users\tomas\MyPersonalBytes\Programavimas\digital.ai\obfuscator\Debug\obfuscator.exe
-C:\Users\tomas\MyPersonalBytes\Programavimas\digital.ai\obfuscator\Debug\obfuscator.pdb
