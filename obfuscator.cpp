@@ -68,6 +68,9 @@ int main(int argc, char* argv[])
     is.close();                // close file
     os.close();                // close file
 
+    std::cout << "\nFile obfuscated successfully!" << "\n";
+    std::cout << "Obfuscated file name is: " << OUTPUT_FILE << "\n";
+
 //*******---Generating mapping file---************//
     std::ofstream ms(MAPPING_FILE);         // open output file
     if (!ms)                                // check if open
@@ -88,6 +91,9 @@ int main(int argc, char* argv[])
         ms << "\n";
     }
     ms.close();   
+
+    std::cout << "\nMapping file created successfully!" << "\n";
+    std::cout << "Mapping file name is: " << MAPPING_FILE << "\n";
 
     return 0;
 }
