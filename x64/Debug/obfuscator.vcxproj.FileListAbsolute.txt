@@ -1,2 +1,0 @@
-C:\Users\tomas\MyPersonalBytes\Programavimas\digital.ai\JSON-Onfuscator\x64\Debug\obfuscator.exe
-C:\Users\tomas\MyPersonalBytes\Programavimas\digital.ai\JSON-Onfuscator\x64\Debug\obfuscator.pdb

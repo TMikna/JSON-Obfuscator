@@ -1,0 +1,4 @@
+C:\Users\tomas\MyPersonalBytes\Programavimas\digital.ai\JSON-Onfuscator\x64\Debug\obfuscator.exe
+C:\Users\tomas\MyPersonalBytes\Programavimas\digital.ai\JSON-Onfuscator\x64\Debug\obfuscator.pdb
+C:\Users\tomas\MyPersonalBytes\Programavimas\digital.ai\JSON-Onfuscator\VS2019 project\x64\Debug\obfuscator.exe
+C:\Users\tomas\MyPersonalBytes\Programavimas\digital.ai\JSON-Onfuscator\VS2019 project\x64\Debug\obfuscator.pdb
